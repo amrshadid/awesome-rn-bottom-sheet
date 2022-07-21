@@ -1,6 +1,6 @@
 {
   "name": "awesome-rn-bottom-sheet",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Native bottom sheet component for iOS + Android",
   "source": "src/index.ts",
   "scripts": {
