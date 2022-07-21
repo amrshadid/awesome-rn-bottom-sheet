@@ -184,4 +184,4 @@ To used this methods you should use useRef hook and pass it to Sheet component
 
 Made by [Amr shadid](https://github.com/amrshadid)
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://amrshadid.github.io) [![linkedin](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://www.linkedin.com/) 
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://amrshadid.github.io) [![linkedin](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amrshadid) 
