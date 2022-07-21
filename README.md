@@ -15,11 +15,11 @@
 Install my-project with npm
 
 ```bash
-  npm install awesome-rn-bottom-sheet
+  npm install @amrshadid/awesome-rn-bottom-sheet
 ```
 or with yarn 
 ```bash
- yarn add awesome-rn-bottom-sheet
+ yarn add @amrshadid/awesome-rn-bottom-sheet
 ```
 ## Usage/Examples
 
